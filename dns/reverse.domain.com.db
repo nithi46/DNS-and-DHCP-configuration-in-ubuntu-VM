@@ -1,0 +1,11 @@
+$TTL 86400
+@   IN  SOA     ns1.domain.com. root.domain.com. (
+                    2026051401
+                    3600
+                    1800
+                    604800
+                    86400 )
+@       IN  NS      ns1.domain.com.
+1       IN  PTR     g1.domain.com.
+11      IN  PTR     m1.domain.com.
+12      IN  PTR     m2.domain.com.
